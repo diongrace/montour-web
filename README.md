@@ -1,5 +1,7 @@
 # MonTour Web — File d'attente virtuelle en temps réel
 
+[![CI](https://github.com/diongrace/montour-web/actions/workflows/ci.yml/badge.svg)](https://github.com/diongrace/montour-web/actions/workflows/ci.yml)
+
 Interface React de MonTour : pages client (mobile), poste agent, administration et écran de salle.
 
 **Backend (API)** : https://github.com/diongrace/montour-api
